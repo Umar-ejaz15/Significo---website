@@ -108,7 +108,7 @@
     "yaml": "^2.4.2"
   },
   "scripts": {
-    "build": "vite"
+    "build": "postcss src/styles.css -o dist/styles.css"
     "dev": "vite"
   },
   "repository": {

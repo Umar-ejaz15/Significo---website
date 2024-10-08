@@ -108,6 +108,7 @@
     "yaml": "^2.4.2"
   },
   "scripts": {
+    "build": "vite"
     "dev": "vite"
   },
   "repository": {
